@@ -33,7 +33,7 @@ Press the keys on your keyboard or click the drum buttons to play different drum
 ---
 
 ## 📸 Preview
-![Drum Kit Screenshot](screenshot.png)
+![Drum Kit Screenshot](Screenshot.png)
 
 ---
 
